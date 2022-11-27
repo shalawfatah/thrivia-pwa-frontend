@@ -1,0 +1,11 @@
+.launch-screen {
+    background-image:
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.96), rgba(255, 255, 255, 0.96)),
+    url('../images/launch-bg.jpg');
+    background-size: cover;
+}
+.prevent-select {
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; /* Standard syntax */
+  }

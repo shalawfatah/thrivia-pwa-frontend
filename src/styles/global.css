@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&family=Roboto:wght@100;700;900&display=swap');
+
+.font-title {
+    font-family: 'Lalezar', cursive;
+}
+.font-heading {
+    font-family: 'Roboto', cursive;
+    font-weight: bold;
+}
+
+.primary {
+    color: #298DFF;
+}
+.secondary {
+    color: #FBBC05;
+}
+.tertiary {
+    color: #298DFF;
+}
+.bg-primary {
+    background-color: #298DFF;
+}
+.bg-secondary {
+    background-color: #FBBC05;
+}
+.bg-tertiary {
+    background-color: #298DFF;
+}
+.bg-color {
+    background-color: #F9F9F9;
+}
+.bg-icon {
+    background-color: #D31505;
+}
+.color-icon {
+    color: #D31505;
+}
+.bg-blue {
+    background-color: #63D4FF;
+}

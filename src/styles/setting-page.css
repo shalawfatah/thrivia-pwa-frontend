@@ -1,0 +1,16 @@
+.setting-page {
+    min-height: 75vh;
+    display: flex;
+    padding: 10vw;
+    justify-content: space-between;
+}
+.setting-page p {
+    font-weight: bold;
+}
+.notification-icon {
+    font-size: 2.4rem;
+    color: #828282;
+}
+.notification-active {
+    color: #D31505;
+}

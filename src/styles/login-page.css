@@ -1,0 +1,23 @@
+.login-page {
+    min-height: 75vh;
+    padding: 10vh 5vw;
+}
+.login-page input:focus{
+    outline: none;
+}
+.login-input {
+    background-color: #F9F9F9;
+    padding: 1rem;
+    margin: 1rem;
+    font-size: 1.2rem;
+}
+.signup-btn {
+    background-color: #D31505;
+    color: #FFFFFF;
+    font-weight: bold;
+    border-radius: 1rem;
+}
+.regular-input {
+    border-left: 1rem solid #E6E4E4;
+    background-color: #F9F9F9;
+}

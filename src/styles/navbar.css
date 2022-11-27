@@ -1,0 +1,15 @@
+.nav-icons {
+    padding: 6px;
+    margin: 6px 0;
+    border-radius: 4px;
+    font-size: 2rem;
+    transition: all .3s ease-in-out;
+}
+.nav-icons:hover {
+    background-color: #298DFF;
+    color: #FFFFFF;
+}
+.active {
+    background-color: #298DFF;
+    color: #FFFFFF;    
+}
